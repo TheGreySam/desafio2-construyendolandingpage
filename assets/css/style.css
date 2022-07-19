@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #333;
+    background: rgb(255, 174, 0);
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+.head {
+    background: #981a1a;
+    padding: 100px 20px;
+    background-image: url("/assets/img/tom-barrett-M0AWNxnLaMw-unsplash.jpg");
+    background-size: cover;
+    background-position: 20% 20%;
+    h1 {
+        font-size: 40px;
+        color: #fff;
+        text-transform: uppercase;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+}
+
+.foot {
+    background: #f5f5f5;
+    padding: 20px 20px;
+}
